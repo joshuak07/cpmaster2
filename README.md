@@ -1,1 +1,1 @@
-# cpmaster2
+# CP-2
